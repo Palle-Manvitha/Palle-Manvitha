@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Palle Manvitha 👋
 
-<!--
-**Palle-Manvitha/Palle-Manvitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate 2026 | Aspiring Software Developer
+📍 Hyderabad, India
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Languages:Python
+- Web:HTML,CSS,JavaScript
+- Database:SQL
+- Tools:Git,GitHub,VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Data analytics 
+- Projects
+
+### 📫 Connect with me
+- Email: pallemanvitha915@gmail.com
+
+ Looking for Software Developer opportunities!
